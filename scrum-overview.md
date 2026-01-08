@@ -3,7 +3,7 @@
 ## 1. Scrum Roles
 - **Product Owner**: 
 - **Scrum Master**: 32333/T.2023 - Iddy, Khan Kassim
-- **Developer 1**: 
+- **Developer 1**: 32035/T.2023 -yohana,Nchambi msafiri
 - **Developer 2**:
 - **Developer 3**:
 - **Developer 4**:
