@@ -6,7 +6,7 @@ Here are 5 prioritized tasks for the Task Management App:
 - Assign task to user: Enable assigning tasks to specific team members via email or username.
 - Mark task complete: Provide a way to update task status to "done" and log completion time.
 - Display task list: Show a dashboard with all tasks, filtered by status or assignee.
-- Notifications: Send alerts (e.g., email or in-app) when a task is assigned or due.
+- Notifications: Send alerts when a task is assigned or due.
 
 ## 2. Sprint Goal
 The goal of this sprint is to plan the core features for task creation, assignment, and tracking, ensuring a basic functional outline for the cloud-based app that meets user needs for collaboration.
