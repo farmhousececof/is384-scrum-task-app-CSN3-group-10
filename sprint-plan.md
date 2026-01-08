@@ -2,7 +2,7 @@
 
 ## 1. Product Backlog
 Here are 5 prioritized tasks for the Task Management App:
-- Add new task: Allow users to create a task with title, description, and due date.
+- Add new task: Allow users to create a task with title, description, and due date.edited by me
 - Assign task to user: Enable assigning tasks to specific team members via email or username.
 - Mark task complete: Provide a way to update task status to "done" and log completion time.
 - Display task list: Show a dashboard with all tasks, filtered by status or assignee.
