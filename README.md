@@ -7,7 +7,7 @@ Cloud and DevOps assignment
 This repository simulates a Scrum workflow for developing a cloud-based task management application. The app allows users to create tasks, assign them to others, and track completion. This is part of the IS 384 assignment to practice Scrum and Git.
 
 ## Group Members and Roles
-- **Product Owner**: 
+- **Product Owner**: 32333/T.2023 - Iddy, Khan Kassim
 - **Scrum Master**: 31520/T.2023 Grayson Joram Ngowi
 - **Developer 1**: 32035/T.2023 -Yohana,Nchambi msafiri
 - **Developer 2**: 31851/T.2023 -Kimambo,Hans Rumisha
