@@ -6,7 +6,7 @@
 * **Scrum Master**: 31520/T.2023 - Grayson Joram Ngowi
 * **Developer 1**: 32035/T.2023 -yohana,Nchambi msafiri
 * **Developer 2**: 30994/T.2023- mgasa nestory kambala
-* **Developer 3**:
+* **Developer 3**: 31851/T.2023-Kimambo, Hans Rumisha
 * **Developer 4**:
 * **Developer 5**:
 * **Developer 6**:
