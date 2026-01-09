@@ -19,5 +19,5 @@ The goal of this sprint is to plan the core features for task creation, assignme
 For a task to be considered "done" in this simulation:
 
 * Code outline or plan is documented and pushed to the repository.
-* Basic tests (e.g., unit test plans) are defined and pass in simulation.
-* Documentation (e.g., how-to guides) is updated in the repo.
+* Basic tests are defined and pass in simulation.
+* Documentation is updated in the repo.
