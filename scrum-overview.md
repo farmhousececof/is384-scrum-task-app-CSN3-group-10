@@ -8,7 +8,7 @@
 * **Developer 2**: 30994/T.2023- mgasa nestory kambala
 * **Developer 3**: 31851/T.2023-Kimambo, Hans Rumisha
 * **Developer 4**: 31887/T.2023 - Ivan Gidion Rwechungura
-* **Developer 5**: 32302/T.2023 -luhobe, Irene Ashely
+* **Developer 5**: 32302/T.2023 -Luhobe, Irene Ashely
 * **Developer 6**:
 
 ## 2\. Scrum Events
