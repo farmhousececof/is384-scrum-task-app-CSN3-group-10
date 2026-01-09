@@ -8,12 +8,10 @@ This repository simulates a Scrum workflow for developing a cloud-based task man
 
 ## Group Members and Roles
 - **Product Owner**: 
-- **Scrum Master**: 32333/T.2023 - Iddy, Khan Kassim
+- **Scrum Master**:
 - **Developer 1**: 32035/T.2023 -yohana,Nchambi msafiri
 - **Developer 2**: 31851/T.2023 -Kimambo,Hans Rumisha
-- **Developer 3**:
+- **Developer 3**: 31887/T.2023 - Ivan Gidion Rwechungura 
 - **Developer 4**:
 - **Developer 5**:
 - **Developer 6**:
-- **Developer 7**:
-- **Developer 8**:
