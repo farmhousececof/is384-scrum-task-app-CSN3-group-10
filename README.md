@@ -11,9 +11,7 @@ This repository simulates a Scrum workflow for developing a cloud-based task man
 - **Scrum Master**: 31520/T.2023 Grayson Joram Ngowi
 - **Developer 1**: 32035/T.2023 -Yohana,Nchambi msafiri
 - **Developer 2**: 31851/T.2023 -Kimambo,Hans Rumisha
-- **Developer 3**:
+- **Developer 3**: 31887/T.2023 - Ivan Gidion Rwechungura 
 - **Developer 4**:
 - **Developer 5**:
 - **Developer 6**:
-- **Developer 7**:
-- **Developer 8**:
