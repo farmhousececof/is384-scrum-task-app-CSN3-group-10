@@ -9,7 +9,7 @@
 * **Developer 3**: 31851/T.2023-Kimambo, Hans Rumisha
 * **Developer 4**: 31887/T.2023 - Ivan Gidion Rwechungura
 * **Developer 5**: 32302/T.2023 -Luhobe, Irene Ashely
-* **Developer 6**:
+* **Developer 6**: 31557/T.2023 - Chuwa, Moses Michael
 
 ## 2\. Scrum Events
 
